@@ -23,5 +23,5 @@
   - 14:00 - COMP1151 - IT Essentials
   - 16:00 - COMP1234 - Introduction to web development
  
-  - [gbc (My Repo)](https://github.com/p26749166-wq/gbc)
+  
   
